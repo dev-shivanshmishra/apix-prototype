@@ -1,0 +1,2 @@
+airline,flight,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left,price
+Indigo,6E-1,Bengaluru,Morning,zero,Afternoon,Delhi,economy,2.5,7,5000

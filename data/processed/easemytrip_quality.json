@@ -1,0 +1,8 @@
+{
+  "rows_in": 300153,
+  "exact_duplicates": 0,
+  "invalid_fare": 0,
+  "unparseable_route": 0,
+  "outliers": 19063,
+  "rows_out": 281090
+}
